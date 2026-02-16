@@ -11,6 +11,7 @@ Handy references for the classic Unix text processing tools:
 *   [grep_cheatsheet.md](grep_cheatsheet.md) - Pattern searching with Regular Expressions.
 *   [sed_cheatsheet.md](sed_cheatsheet.md) - Stream editing and text transformations.
 *   [awk_cheatsheet.md](awk_cheatsheet.md) - Pattern scanning and field-based processing.
+*   [cut_cheatsheet.md](cut_cheatsheet.md) - Column extraction from delimited data.
 *   [fzf_cheatsheet.md](fzf_cheatsheet.md) - Fuzzy finder for files, history, and more.
 
 ### 🛠️ Utilities (Coming Soon)
@@ -45,5 +46,6 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 ## 📈 Roadmap
 
 - [x] Initial Unix tool cheatsheets.
+- [ ] Add csvkit cheatsheet and examples for CSV processing.
 - [ ] Build a log parser in Go.
 - [ ] Add functional data processing examples in Haskell.
