@@ -6,7 +6,7 @@ This repository serves as a personal reference and a landing spot for custom-bui
 
 ## 📂 Contents
 
-### 📝 Cheatsheets: The "Holy Trinity" + plus Fuzzy Finder
+### 📝 Cheatsheets: The "Holy Trinity" + plus
 Handy references for the classic Unix text processing tools:
 *   [grep_cheatsheet.md](grep_cheatsheet.md) - Pattern searching with Regular Expressions.
 *   [sed_cheatsheet.md](sed_cheatsheet.md) - Stream editing and text transformations.
