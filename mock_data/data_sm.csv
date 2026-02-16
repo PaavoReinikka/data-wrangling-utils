@@ -1,0 +1,5 @@
+ID,Metric A,Metric B (%),Change (%),Total,Notes
+1,100,50,1.2,150,Initial value
+2,120,55,1.5,175,Updated
+3,90,45,-0.5,135,Corrected
+4,115,52,1.1,167,Reviewed
